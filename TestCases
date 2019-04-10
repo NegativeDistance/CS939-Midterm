@@ -1,0 +1,309 @@
+TEST CASE1:
+
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 1
+Please Enter Department Details:
+Department ID : 1
+Department Name : Sales
+Head of Department : Anna
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 1
+Please Enter Department Details:
+Department ID : 1
+Value must be unique!
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 1
+Please Enter Department Details:
+Department ID : 2
+Department Name : Marketing
+Head of Department : Mark
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 1
+Please Enter Department Details:
+Department ID : 3
+Department Name : GlobalSales           
+Head of Department : Patil
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 1
+
+The array is full, you can not add any more Departments.
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 2
+Please Enter Employee Details:
+Employee ID : 1
+Employee Name :John
+Salary: $45000
+Age : 25
+Department ID : 1
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 2
+Please Enter Employee Details:
+Employee ID : 1
+Value must be unique!
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 1
+
+The array is full, you can not add any more Departments.
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 2
+Please Enter Employee Details:
+Employee ID : 2
+Employee Name :Susan
+Salary: $45000
+Age : 26
+Department ID : 1
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 2
+Please Enter Employee Details:
+Employee ID : 3
+Employee Name :Adam
+Salary: $50000
+Age : 24
+Department ID : 2
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 2
+Please Enter Employee Details:
+Employee ID : 4
+Employee Name :Manny
+Salary: $60000
+Age : 26
+Department ID : 2
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 2
+Please Enter Employee Details:
+Employee ID : 5
+Employee Name :Maria
+Salary: $60000
+Age : 23
+Department ID : 9
+Please enter a valid department ID: 3
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 2
+The array is full, you can not add any more Employees.
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 5
+
+Salary Report By Department
+
+Dept         : Sales
+Total Salary : $90000
+
+Dept         : Marketing
+Total Salary : $110000
+
+Dept         : GlobalSales
+Total Salary : $60000
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 9
+Please enter a valid choice (1 - 6): 3
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 6
+Thank you, goodbye.
+
+
+TEST CASE 2:
+
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 1
+Please Enter Department Details:
+Department ID : 1
+Department Name : Sales
+Head of Department : Markus
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 1
+Please Enter Department Details:
+Department ID : 1
+Value must be unique!
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 1
+Please Enter Department Details:
+Department ID : 2
+Department Name : Marketing
+Head of Department : Anna
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 2
+Please Enter Employee Details:
+Employee ID : 1
+Employee Name :John
+Salary: $45000
+Age : 23
+Department ID : 1
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 2
+Please Enter Employee Details:
+Employee ID : 2    
+Employee Name :Susan
+Salary: $40000
+Age : 45
+Department ID : 1
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 2
+Please Enter Employee Details:
+Employee ID : 3
+Employee Name :many
+Salary: $70000
+Age : 34
+Department ID : 2
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 5
+
+Salary Report By Department
+
+Dept         : Sales
+Total Salary : $85000
+
+Dept         : Marketing
+Total Salary : $70000
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 3
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 
+4
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 5
+
+Salary Report By Department
+
+Dept         : Sales
+Total Salary : $85000
+
+Dept         : Marketing
+Total Salary : $70000
+1. Create Department
+2. Create Employee
+3. Write Out Data File
+4. Read In Data File
+5. Display Salary Report
+6. -- Quit -- 
+Please make a selection : 6
+Thank you, goodbye.
